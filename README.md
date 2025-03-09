@@ -1,2 +1,2 @@
 # HTML_BASICS
-HTML CODE
+HTML CODE details
